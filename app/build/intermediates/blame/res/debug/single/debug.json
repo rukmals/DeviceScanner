@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shield.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xhdpi\\shield.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_checkmark.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-ldpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shield_icon.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-mdpi\\shield_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_checkmark.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xxhdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_checkmark.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xhdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable\\btn_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_result.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\layout\\result.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_play.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_bar.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_shield_icon.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-ldpi\\shield_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkmark.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-hdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checkmark.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-mdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shield_icon.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xxhdpi\\shield_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shield.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xxhdpi\\shield.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_play.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shield_icon.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xhdpi\\shield_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_screen_slide_page.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\layout\\fragment_screen_slide_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shield.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-mdpi\\shield.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shield.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-hdpi\\shield.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-xxhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_shield.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-ldpi\\shield.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shield_icon.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-hdpi\\shield_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_play.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Android\\DeviceScanner\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
